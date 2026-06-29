@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Atin123321/Leetcode_problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Atin123321/Leetcode_problems/tree/master/0283-move-zeroes) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Atin123321/Leetcode_problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Atin123321/Leetcode_problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Atin123321/Leetcode_problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Search
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Atin123321/Leetcode_problems/tree/master/0392-is-subsequence) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Atin123321/Leetcode_problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Dynamic Programming
 |  |
 | ------- |
