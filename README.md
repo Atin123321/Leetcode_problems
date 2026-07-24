@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Atin123321/Leetcode_problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Atin123321/Leetcode_problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Atin123321/Leetcode_problems/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Atin123321/Leetcode_problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Atin123321/Leetcode_problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Search
 |  |
@@ -80,11 +81,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Atin123321/Leetcode_problems/tree/master/0007-reverse-integer) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Atin123321/Leetcode_problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Atin123321/Leetcode_problems/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Atin123321/Leetcode_problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Atin123321/Leetcode_problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Enumeration
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Atin123321/Leetcode_problems/tree/master/1291-sequential-digits) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Atin123321/Leetcode_problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -93,4 +96,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Atin123321/Leetcode_problems/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Atin123321/Leetcode_problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
