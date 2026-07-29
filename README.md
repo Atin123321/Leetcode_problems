@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Atin123321/Leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0392-is-subsequence](https://github.com/Atin123321/Leetcode_problems/tree/master/0392-is-subsequence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Atin123321/Leetcode_problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Atin123321/Leetcode_problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Atin123321/Leetcode_problems/tree/master/0013-roman-to-integer) |
 | [1331-rank-transform-of-an-array](https://github.com/Atin123321/Leetcode_problems/tree/master/1331-rank-transform-of-an-array) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Atin123321/Leetcode_problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Atin123321/Leetcode_problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Atin123321/Leetcode_problems/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/Atin123321/Leetcode_problems/tree/master/0013-roman-to-integer) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Atin123321/Leetcode_problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Atin123321/Leetcode_problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Atin123321/Leetcode_problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
