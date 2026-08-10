@@ -36,11 +36,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Atin123321/Leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0283-move-zeroes](https://github.com/Atin123321/Leetcode_problems/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Atin123321/Leetcode_problems/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Atin123321/Leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Atin123321/Leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0392-is-subsequence](https://github.com/Atin123321/Leetcode_problems/tree/master/0392-is-subsequence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Atin123321/Leetcode_problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Atin123321/Leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/Atin123321/Leetcode_problems/tree/master/0392-is-subsequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Atin123321/Leetcode_problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Hash Table
@@ -116,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Atin123321/Leetcode_problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Atin123321/Leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
